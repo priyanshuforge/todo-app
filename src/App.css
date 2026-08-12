@@ -10,12 +10,12 @@ input {
 }
 
 .item-container {
-  text-align: left;
+  text-align: left; 
   
 }
 
 .kg-button {
-min-width: 80px
+min-width: 80px 
 }
 
 .kg-row {
