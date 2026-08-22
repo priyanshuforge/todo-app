@@ -9,12 +9,12 @@ function App() {
     <center className="todo-container"> 
       <AppName />
       <AddTodo />
-      <div class="item-container"> 
+      <div class="item-container">  
         <TodoItem1 /> 
         <TodoItem2 />
-      </div>
+      </div> 
     </center> 
   );
 } 
 
-export default App; 
+export default App;  
